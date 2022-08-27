@@ -14,7 +14,7 @@
 
 body {
     background-color: var(--main-background-color);
-    font-family: "Ubuntu";
+    font-family: Ubuntu;
 }
 
 input::-webkit-input-placeholder { 
