@@ -11,7 +11,7 @@
     "lint-staged": "^13.0.3"
   },
   "scripts": {
-    "prettier": "prettier --write . --no-config"
+    "lint-staged": "lint-staged"
   },
   "repository": {
     "type": "git",
