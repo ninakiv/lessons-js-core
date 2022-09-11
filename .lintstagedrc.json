@@ -1,0 +1,4 @@
+{
+    "*.html": "prettier --write --no-config",
+    "*.css": "prettier --write --no-config"
+}
